@@ -52,3 +52,5 @@ for list_ in lists_in_list:
 
 ##TODO
 - after commit, check everythings fine 
+- try to change blog theme to 'NEXT'
+- make TIL category on blog
