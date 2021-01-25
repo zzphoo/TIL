@@ -10,7 +10,7 @@
   how to use for, while in python.
 
 
-
+```
 for s in "python":
     print('{} for python'.format(s))
 
@@ -47,8 +47,7 @@ result = 0
 for list_ in lists_in_list:
     result += (sum(list_))
     print(result)
-
-
+```
 
 ##TODO
 - after commit, check everythings fine 
