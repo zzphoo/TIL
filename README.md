@@ -3,10 +3,6 @@ Today I Leaned..
 
 <h1>title</h1>
 
-#Title
-
-##Installation
-
 You don't need to install anything.
 Just open and read..
 
