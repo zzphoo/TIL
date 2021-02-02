@@ -1,8 +1,8 @@
 # 👉 TIL
 
- Today I Leaned
+ Today I Leanred
 
-✔ Update what i leaned everyday.
+✔ Update what i learned everyday.
 
 ✔ About GIT, Python, HTML etc
 
