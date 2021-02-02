@@ -3,6 +3,7 @@
  Today I Leaned
 
 ✔ Update what i leaned everyday.
+
 ✔ About GIT, Python, HTML etc
 
 ## In order to contact me,
